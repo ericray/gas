@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/seeds/ContactoTableSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/seeds/PersonaTableSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/seeds/SucursalTableSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/seeds/TipoPagoSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/asociado/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/login.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/cart/account.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/cart/confirmation.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/cart/detail.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/cart/finish.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/cliente/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/errors/403.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/errors/404.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/errors/errors_request.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/mainbar.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/sidebar.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/partials/scripts-bootgrid.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/permiso/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pregunta_secreta/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/reportes/ordenes.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/rol/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/sell/choose.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/sell/clientaccount.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/sell/search-cliente.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/tipo_pregunta/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/usuario/form.blade.php" charset="UTF-8" />
+  </component>
+</project>

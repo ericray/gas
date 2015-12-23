@@ -1,0 +1,8 @@
+a,a:hover,a:focus{
+    text-decoration: none !important;
+}
+
+.table{
+    border-top: #ccc 1px solid !important;
+    border-bottom: #ccc 1px solid !important;
+}
